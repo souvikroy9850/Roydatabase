@@ -1,2 +1,0 @@
-# Roydatabase
-Trial inside SDAC
